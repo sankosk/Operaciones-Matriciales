@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=iTam\ jTam
+comment0.target=Suma(int,\ int)
+comment1.params=
+comment1.target=int[][]\ getResultado()
+comment2.params=resultado
+comment2.target=void\ setResultado(int[][])
+comment3.params=matriz1\ matriz2
+comment3.target=int[][]\ mSuma(int[][],\ int[][])
+numComments=4
