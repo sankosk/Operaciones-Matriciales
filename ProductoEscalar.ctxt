@@ -1,12 +1,12 @@
 #BlueJ class context
 comment0.params=iTam\ jTam
-comment0.target=Resta(int,\ int)
+comment0.target=ProductoEscalar(int,\ int)
 comment1.params=
 comment1.target=int[][]\ getResultado()
 comment2.params=resultado
 comment2.target=void\ setResultado(int[][])
-comment3.params=matriz1\ matriz2
-comment3.target=int[][]\ mResta(int[][],\ int[][])
+comment3.params=matriz1\ escalar
+comment3.target=int[][]\ escalarProducto(int[][],\ int)
 comment4.params=
 comment4.target=void\ print()
 numComments=5

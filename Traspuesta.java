@@ -36,6 +36,12 @@ public class Traspuesta
             }
         }
        
-        return resultado;
+        return this.getResultado();
+    }
+    
+    public void print()
+    {
+        MostrarMatriz matriz = new MostrarMatriz();
+        matriz.print(this.getResultado());
     }
 }

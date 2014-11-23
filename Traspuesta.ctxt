@@ -7,4 +7,6 @@ comment2.params=resultado
 comment2.target=void\ setResultado(int[][])
 comment3.params=matriz
 comment3.target=int[][]\ mTrasposicion(int[][])
-numComments=4
+comment4.params=
+comment4.target=void\ print()
+numComments=5

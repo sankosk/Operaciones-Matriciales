@@ -33,6 +33,12 @@ public class Resta
                 resultado[i][j] = matriz1[i][j] - matriz2[i][j];
             }
         }
-        return resultado;
+        return this.getResultado();
+    }
+    
+    public void print()
+    {
+        MostrarMatriz matriz = new MostrarMatriz();
+        matriz.print(this.getResultado());
     }
 }
