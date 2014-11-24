@@ -1,4 +1,10 @@
 #BlueJ class context
-comment0.params=matriz\ n
-comment0.target=int[][]\ mPotencia(int[][],\ int)
-numComments=1
+comment0.params=
+comment0.target=int[][]\ getResultado()
+comment1.params=resultado
+comment1.target=void\ setResultado(int[][])
+comment2.params=matriz\ n
+comment2.target=int[][]\ mPotencia(int[][],\ int)
+comment3.params=
+comment3.target=void\ print()
+numComments=4

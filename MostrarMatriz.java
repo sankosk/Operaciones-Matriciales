@@ -2,7 +2,7 @@
 /**
  * Write a description of class MostrarMatriz here.
  * 
- * @author (your name) 
+ * @author (Esteban Montes) 
  * @version (a version number or a date)
  */
 public class MostrarMatriz

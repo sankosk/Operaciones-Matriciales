@@ -2,9 +2,10 @@
 /**
  * Write a description of class Resta here.
  * 
- * @author (your name) 
+ * @author (Esteban Montes) 
  * @version (a version number or a date)
  */
+
 public class Resta
 {
     private int[][] resultado;
